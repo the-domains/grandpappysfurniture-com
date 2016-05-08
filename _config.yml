@@ -1,29 +1,41 @@
-name: grandpappysfurniture.com
-favicon: null
-layout_spectrum: 0.03974790987558663
-typography_spectrum: 0.4131375995930284
 title: "Grand Pappy's Home Furniture "
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2491039
+  brandStrength: 0.7757332953624427
+  lightness: 0.234767
+  brandColors:
+    - '#0E0E0E'
+    - '#C20019'
+    - '#F6F6F6'
+    - '#484848'
+    - '#F5BF19'
+  rhythmicContrast: 0.699765
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: grandpappysfurniture.com
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7757332953624427
-  lightness: 0.45916905673220754
-  saturation: 0.0030857794918119907
-  rhythmicContrast: 0.6997649532277137
-purpose: []
+typography_spectrum: 0.4139785
+layout_spectrum: 1
