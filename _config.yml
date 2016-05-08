@@ -1,0 +1,28 @@
+name: grandpappysfurniture.com
+favicon: null
+layout_spectrum: 0.03974790987558663
+typography_spectrum: 0.4131375995930284
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7757332953624427
+  lightness: 0.45916905673220754
+  saturation: 0.0030857794918119907
+  rhythmicContrast: 0.6997649532277137
+purpose: []
