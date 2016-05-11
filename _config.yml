@@ -1,5 +1,8 @@
-title: "Grand Pappy's Home Furniture "
-purpose: []
+name: grandpappysfurniture.com
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4139785
+title: 'Urban Style Right Here In Chilliwack!'
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2491039
-  brandStrength: 0.7757332953624427
-  lightness: 0.234767
   brandColors:
     - '#0E0E0E'
     - '#C20019'
     - '#F6F6F6'
     - '#484848'
     - '#F5BF19'
+  brandStrength: 0.7757332953624427
+  lightness: 0.234767
+  saturation: 0.2491039
   rhythmicContrast: 0.699765
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: grandpappysfurniture.com
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4139785
-layout_spectrum: 1
+purpose: []
