@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Grand Pappy's Home Furniture ]]></title>
+        <description><![CDATA[Grand Pappy's Home Furniture ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 May 2016 22:53:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bring Savings Home Contest]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c743cad-c6f7-45b5-9b2e-6806627016c0.jpg">]]></description>
+            <link>undefinedbring-savings-home-contest/index.html</link>
+            <guid isPermaLink="false">63ea9c2d-d685-4d36-9425-0c0eaefeef06</guid>
+            <pubDate>Wed, 11 May 2016 22:52:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
